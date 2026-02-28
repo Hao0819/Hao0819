@@ -58,6 +58,12 @@
   <a href="https://github.com/Hao0819" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://my.jobstreet.com/profile/me" target="_blank">
+    <img src="https://img.shields.io/badge/JobStreet-E6002D?style=for-the-badge&logo=jobstreet&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/junhao_lim_0103/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
