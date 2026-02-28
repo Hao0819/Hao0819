@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I'm passionate about building mobile and web applications that solve real-world problems. Currently diving deep into JavaScript and React Native to sharpen my skills as a developer!
+  I'm currently learning to build mobile applications for Android and iOS. In the future, I plan to expand my skills into web development as well. My goal is to become a Full-Stack Developer and Software Engineer!
 </p>
 
 ---
