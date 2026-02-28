@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Lim Jun Hao! 👋</h1>
 
 <p align="center">
-  🎓 Computer Science Student &nbsp;|&nbsp; 📱 Mobile & Web Developer &nbsp;|&nbsp; 🚀 Aspiring Full-Stack Developer
+  🎓 Computer Science Student &nbsp;|&nbsp; 📱 Mobile Application Developer &nbsp;|&nbsp; 🚀 Aspiring Full-Stack Developer
 </p>
 
 <p align="center">
