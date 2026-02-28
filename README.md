@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Lim Jun Hao! 👋</h1>
 
 <p align="center">
-  🎓 Computer Science Student &nbsp;|&nbsp; 📱 Mobile Application Developer &nbsp;|&nbsp; 🚀 Aspiring Full-Stack Developer
+  🎓 Computer Science Student &nbsp;|&nbsp; 📱 Mobile App Developer &nbsp;|&nbsp; 🚀 Aspiring Full-Stack Developer
 </p>
 
 <p align="center">
@@ -39,12 +39,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api?username=Hao0819&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hao0819&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hao0819&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/top-langs/?username=Hao0819&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao0819&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
