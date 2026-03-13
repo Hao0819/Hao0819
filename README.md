@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Lim Jun Hao! 👋</h1>
-
 <p align="center">
   🎓 Computer Science Student &nbsp;|&nbsp; 📱 Mobile App Developer &nbsp;|&nbsp; 🚀 Aspiring Full-Stack Developer
 </p>
-
 <p align="center">
   I'm currently learning to build mobile applications for Android and iOS. In the future, I plan to expand my skills into web development as well. My goal is to become a Full-Stack Developer and Software Engineer!
 </p>
@@ -13,7 +11,6 @@
 ## 🛠️ Languages & Tools
 
 **Worked With**
-
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -28,10 +25,10 @@
 </p>
 
 **Currently Learning**
-
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript (Advanced)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript_(Advanced)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
@@ -42,7 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hao0819&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hao0819&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao0819&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
