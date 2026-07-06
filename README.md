@@ -2,7 +2,7 @@
 
 # Hi, I'm Lim Jun Hao 👋
 
-### Software Engineering Student · Mobile App Developer · Aspiring Full-Stack Engineer
+### Computer Science Student · Mobile App Developer · Aspiring Full-Stack Engineer
 
 I'm currently building mobile applications for Android and iOS, with plans to expand into
 web development. My goal is to grow into a well-rounded **Full-Stack Developer and Software Engineer**.
