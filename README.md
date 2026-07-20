@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lim Jun Hao 👋
+# Hi, I'm Lim Jun Hao 
 
 <code>Software Engineering Student</code> &nbsp;&nbsp; <code>Mobile App Developer</code> &nbsp;&nbsp; <code>Aspiring Full-Stack Engineer</code>
 
