@@ -2,36 +2,13 @@
 
 # Hi, I'm Lim Jun Hao 
 
-<code>Software Engineering Student</code> &nbsp;&nbsp; <code>Mobile App Developer</code> &nbsp;&nbsp; <code>Aspiring Full-Stack Engineer</code>
+<code>Software Engineering Student</code> &nbsp;&nbsp; <code>Mobile App Developer</code> &nbsp;&nbsp;
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junhao0819/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hao0819)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/junhao_lim_0103/)
 
 </div>
-
-<br/>
-
-## 💼 Experience
-
-**Software Engineer Intern** — Deng Kai Sdn Bhd
-
-Working on real-world software development tasks as part of my internship, applying and expanding
-what I've learned in mobile development and software engineering practices in a professional setting.
-
-<br/>
-
-## 🚀 Featured Projects
-
-**MeterImageUploader** 
-React Native app for uploading profile images and greeting screens to a BLE-connected E Meter LCD device, with custom packet transfer, missing-packet detection, and automatic retry logic.
-
-**EBQControl Hybrid** 
-Cross-platform React Native app controlling and monitoring EBQ devices over BLE and MQTT, featuring real-time telemetry, scene control, multi-language UI, and BLE OTA firmware updates.
-
-**BLE ChangeOver** 
-React Native app for monitoring and configuring a MyStarChangeOver automatic transfer switch (ATS) over BLE, with real-time voltage/current telemetry and protection threshold settings.
 
 <br/>
 
