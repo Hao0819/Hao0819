@@ -4,8 +4,6 @@
 
 <code>Software Engineering Student</code> &nbsp;&nbsp; <code>Mobile App Developer</code> &nbsp;&nbsp; <code>Aspiring Full-Stack Engineer</code>
 
-I'm currently building mobile applications for Android and iOS, with plans to expand into
-web development. My goal is to grow into a well-rounded **Full-Stack Developer and Software Engineer**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junhao0819/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hao0819)
