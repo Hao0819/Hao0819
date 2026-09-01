@@ -70,15 +70,15 @@ building React Native apps that talk to hardware over BLE, Wi-Fi and MQTT.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=Hao0819&theme=dark&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200"
+    srcset="https://streak-stats.demolab.com/?user=Hao0819&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200&background=0D1117&ring=829F9F&fire=829F9F&currStreakLabel=829F9F&sideLabels=FFFFFF&sideNums=FFFFFF&dates=8B8B8B&border=30363D"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=Hao0819&theme=light&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200"
+    srcset="https://streak-stats.demolab.com/?user=Hao0819&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200&background=FFFFFF&ring=829F9F&fire=829F9F&currStreakLabel=829F9F&sideLabels=1A1A1A&sideNums=1A1A1A&dates=666666&border=E1E4E8"
   />
   <img
     alt="GitHub Streak"
-    src="https://streak-stats.demolab.com/?user=Hao0819&theme=dark&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200"
+    src="https://streak-stats.demolab.com/?user=Hao0819&hide_border=true&border_radius=10&mode=daily&card_width=500&card_height=200&background=0D1117&ring=829F9F&fire=829F9F&currStreakLabel=829F9F&sideLabels=FFFFFF&sideNums=FFFFFF&dates=8B8B8B&border=30363D"
   />
 </picture>
 
