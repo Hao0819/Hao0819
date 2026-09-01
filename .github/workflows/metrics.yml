@@ -38,5 +38,14 @@ jobs:
           filename: metrics.plugin.languages.svg
           base: ""
           plugin_languages: yes
-          plugin_languages_details: percentage
           plugin_languages_limit: 8
+          plugin_languages_details: percentage, lines
+          # The default algorithm counts every byte in each repo you touched,
+          # including code written by teammates. indepth clones the repos and
+          # attributes commits, so these figures reflect what was actually
+          # authored by the identities listed below.
+          plugin_languages_indepth: yes
+          commits_authoring: Hao0819, junhao060103@gmail.com, limjh-wm24@student.tarc.edu.my, 181139503+Hao0819@users.noreply.github.com
+          # Notebooks embed their output (images, base64) in the file itself,
+          # so they dominate any byte-based count.
+          plugin_languages_ignored: jupyter notebook
