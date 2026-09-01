@@ -89,4 +89,9 @@ building React Native apps that talk to hardware over BLE, Wi-Fi and MQTT.
   />
 </picture>
 
+<!-- Rendered daily by .github/workflows/metrics.yml (lowlighter/metrics) -->
+<img alt="Commit calendar" src="./metrics.plugin.isocalendar.svg" />
+
+<img alt="Languages activity" src="./metrics.plugin.languages.svg" />
+
 ⭐ If you find something useful in my repositories, a star is always appreciated!
