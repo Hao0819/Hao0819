@@ -30,7 +30,7 @@
 
 **`Software Engineering Student`** `|` **`Mobile App Developer`**
 
-Hi, I'm **Jun Hao**, a computing student at TARUMT working toward backend software
+Hi, I'm **Jun Hao**, a software engineering student at TARUMT working toward backend software
 engineering. I spent my industrial training in the R&D department at Deng Kai Sdn Bhd
 building React Native apps that talk to hardware over BLE, Wi-Fi and MQTT.
 
