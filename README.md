@@ -5,6 +5,7 @@
 <code>Software Engineering Student</code> &nbsp;&nbsp; <code>Mobile App Developer</code> &nbsp;&nbsp;
 
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E69BB?style=flat-square&logo=googlechrome&logoColor=white)](https://hao0819.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junhao0819/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hao0819)
 
