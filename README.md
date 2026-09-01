@@ -27,6 +27,13 @@
     align="right"
   />
 </a>
+<a href="https://www.instagram.com/junhao_lim_0103/">
+  <img
+    src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/large/filled/instagram.svg"
+    alt="Instagram"
+    align="right"
+  />
+</a>
 
 **`Software Engineering Student`** `|` **`Mobile App Developer`**
 
