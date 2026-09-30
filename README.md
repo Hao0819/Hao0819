@@ -39,7 +39,8 @@
 
 Hi, I'm **Jun Hao**, a software engineering student at TARUMT working toward backend software
 engineering. I spent my industrial training in the R&D department at Deng Kai Sdn Bhd
-building React Native apps that talk to hardware over BLE, Wi-Fi and MQTT.
+building React Native apps that talk to hardware over BLE, Wi-Fi and MQTT, and I build
+my own apps in Flutter — most recently an offline music player for Android.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hao0819.github.io-0E69BB?style=flat-square&logo=googlechrome&logoColor=white)](https://hao0819.github.io) ![Profile views](https://komarev.com/ghpvc/?username=Hao0819&style=flat-square&color=0E69BB&label=Profile+views)
 
@@ -62,11 +63,11 @@ building React Native apps that talk to hardware over BLE, Wi-Fi and MQTT.
 
 ### Languages
 
-[![Languages](https://skills.syvixor.com/api/icons?i=java,kotlin,js,ts,cpp,python)](https://github.com/syvixor/skills-icons)
+[![Languages](https://skills.syvixor.com/api/icons?i=java,dart,kotlin,ts,js,cpp,python)](https://github.com/syvixor/skills-icons)
 
 ### Mobile
 
-[![Mobile](https://skills.syvixor.com/api/icons?i=androidstudio,reactnative)](https://github.com/syvixor/skills-icons)
+[![Mobile](https://skills.syvixor.com/api/icons?i=flutter,reactnative,androidstudio)](https://github.com/syvixor/skills-icons)
 
 ### Backend & Tools
 
