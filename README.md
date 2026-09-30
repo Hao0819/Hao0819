@@ -41,7 +41,7 @@ Hi, I'm **Jun Hao**, a software engineering student at TARUMT working toward bac
 engineering. I spent my industrial training in the R&D department at Deng Kai Sdn Bhd
 building React Native apps that talk to hardware over BLE, Wi-Fi and MQTT.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hao0819.github.io-0E69BB?style=flat-square&logo=googlechrome&logoColor=white)](https://hao0819.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hao0819.github.io-0E69BB?style=flat-square&logo=googlechrome&logoColor=white)](https://hao0819.github.io) ![Profile views](https://komarev.com/ghpvc/?username=Hao0819&style=flat-square&color=0E69BB&label=Profile+views)
 
 <picture>
   <source
