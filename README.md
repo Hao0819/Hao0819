@@ -44,10 +44,9 @@
 
 **`Software Engineering Student`** `|` **`Mobile App Developer`**
 
-Hi, I'm **Jun Hao**, a software engineering student at **TARUMT** with a growing focus on backend software engineering and mobile application development.
-During my industrial training at **Deng Kai Sdn Bhd**, I worked in the R&D department, developing React Native applications that communicate with hardware through BLE, Wi-Fi, and MQTT. This experience gave me hands-on exposure to connecting mobile applications with real-world devices and IoT systems.
-Outside of work and university projects, I enjoy building my own applications with Flutter. My recent project is an offline music player for Android, where I'm exploring mobile architecture, local data storage, and application development.
-Outside of coding, I'm into **Kamen Rider** and **anime**.
+Hi, I'm **Jun Hao** — building mobile apps that talk to hardware, and heading
+toward backend engineering. Kamen Rider and anime fill the rest of the week.
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-hao0819.github.io-0E69BB?style=flat-square&logo=googlechrome&logoColor=white)](https://hao0819.github.io) ![Profile views](https://komarev.com/ghpvc/?username=Hao0819&style=flat-square&color=0E69BB&label=Profile+views)
 
 <picture>
@@ -64,6 +63,23 @@ Outside of coding, I'm into **Kamen Rider** and **anime**.
     src="https://raw.githubusercontent.com/Hao0819/Hao0819/output/github-snake.svg"
   />
 </picture>
+
+## About Me
+
+I'm a software engineering student at **TARUMT** with a growing focus on backend
+software engineering and mobile application development.
+
+During my industrial training at **Deng Kai Sdn Bhd**, I worked in the R&D
+department, developing React Native applications that communicate with hardware
+through BLE, Wi-Fi, and MQTT. This experience gave me hands-on exposure to
+connecting mobile applications with real-world devices and IoT systems.
+
+Outside of work and university projects, I enjoy building my own applications with
+Flutter. My recent project is an offline music player for Android, where I'm
+exploring mobile architecture, local data storage, and application development.
+
+Away from the screen, I'm into **Kamen Rider** and **anime** — a few favourites
+are at the bottom of this page.
 
 ## My Tech Stack
 
