@@ -16,13 +16,30 @@
 ![Mobile Developer](https://img.shields.io/badge/Mobile_Developer-21262D?style=flat-square)
 ![Kuala Lumpur, MY](https://img.shields.io/badge/Kuala_Lumpur,_MY-21262D?style=flat-square)
 
-[Portfolio](https://hao0819.github.io) · [LinkedIn](https://www.linkedin.com/in/junhao0819/) · [Instagram](https://www.instagram.com/junhao_lim_0103/) · [Email](mailto:junhao060103@gmail.com) · ![Views](https://komarev.com/ghpvc/?username=Hao0819&style=flat-square&color=21262D&label=Views)
+<p>
+  <a href="https://hao0819.github.io">Portfolio</a> ·
+  <a href="mailto:junhao060103@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/junhao0819/">
+    <img
+      height="24"
+      src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/medium/filled/linkedin.svg"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://www.instagram.com/junhao_lim_0103/">
+    <img
+      height="24"
+      src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/medium/filled/instagram.svg"
+      alt="Instagram"
+    />
+  </a>
+</p>
 
 - I build mobile apps that talk to hardware — BLE, Wi-Fi, MQTT
 - journey: TARUMT → Deng Kai R&D → backend engineering
 - enjoy building my own apps and shipping them
 
-btw beyond code, don't miss these: #KamenRider #DragonBall #HitmanReborn
+btw beyond code, I'm into Kamen Rider and anime.
 
 <picture>
   <source
@@ -118,3 +135,5 @@ Some of my favourites.
 </table>
 
 ⭐ If you find something useful in my repositories, a star is always appreciated!
+
+![Profile views](https://komarev.com/ghpvc/?username=Hao0819&style=flat-square&color=0E69BB&label=Profile+views)
