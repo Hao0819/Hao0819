@@ -5,49 +5,24 @@
   alt="Kamen Rider Ryuki"
 />
 
-<p>
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=14&pause=500&color=829F9F&vCenter=true&repeat=true&width=100&lines=Hao0819"
-      alt="Handle"
-    />
-  </a>
-</p>
-
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=999&color=0E69BB&vCenter=false&repeat=false&width=280&lines=Lim+Jun+Hao"
-    alt="Name"
-  />
-</a>
-<a href="https://www.linkedin.com/in/junhao0819/">
-  <img
-    src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/large/filled/linkedin.svg"
-    alt="LinkedIn"
-    align="right"
-  />
-</a>
-<a href="https://github.com/Hao0819">
-  <img
-    src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/large/filled/github.svg"
-    alt="GitHub"
-    align="right"
-  />
-</a>
-<a href="https://www.instagram.com/junhao_lim_0103/">
-  <img
-    src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/large/filled/instagram.svg"
-    alt="Instagram"
-    align="right"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=999&color=0E69BB&vCenter=false&repeat=false&width=360&lines=Hi%2C+I%27m+Jun+Hao."
+    alt="Hi, I'm Jun Hao."
   />
 </a>
 
-**`Software Engineering Student`** `|` **`Mobile App Developer`**
+![Software Engineering Undergrad](https://img.shields.io/badge/Software_Engineering_Undergrad-21262D?style=flat-square)
+![Mobile Developer](https://img.shields.io/badge/Mobile_Developer-21262D?style=flat-square)
+![Kuala Lumpur, MY](https://img.shields.io/badge/Kuala_Lumpur,_MY-21262D?style=flat-square)
 
-Hi, I'm **Jun Hao** — building mobile apps that talk to hardware, and heading
-toward backend engineering. Kamen Rider and anime fill the rest of the week.
+[Portfolio](https://hao0819.github.io) · [LinkedIn](https://www.linkedin.com/in/junhao0819/) · [Instagram](https://www.instagram.com/junhao_lim_0103/) · [Email](mailto:junhao060103@gmail.com) · ![Views](https://komarev.com/ghpvc/?username=Hao0819&style=flat-square&color=21262D&label=Views)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hao0819.github.io-0E69BB?style=flat-square&logo=googlechrome&logoColor=white)](https://hao0819.github.io) ![Profile views](https://komarev.com/ghpvc/?username=Hao0819&style=flat-square&color=0E69BB&label=Profile+views)
+- I build mobile apps that talk to hardware — BLE, Wi-Fi, MQTT
+- journey: TARUMT → Deng Kai R&D → backend engineering
+- enjoy building my own apps and shipping them
+
+btw beyond code, don't miss these: #KamenRider #DragonBall #HitmanReborn
 
 <picture>
   <source
