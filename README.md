@@ -1,31 +1,9 @@
-<!-- 图和图标要包在同一个右浮动块里，图标才会落在图的下面。
-     分开写两个 align="right" 的话，图标会被排到图的左边，不是下面。 -->
-<table align="right">
-  <tr>
-    <td align="center">
-      <img
-        height="190"
-        src="./assets/kamen-rider-ryuki.jpg"
-        alt="Kamen Rider Ryuki"
-      />
-      <br />
-      <a href="https://www.linkedin.com/in/junhao0819/">
-        <img
-          height="28"
-          src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/medium/filled/linkedin.svg"
-          alt="LinkedIn"
-        />
-      </a>
-      <a href="https://www.instagram.com/junhao_lim_0103/">
-        <img
-          height="28"
-          src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/medium/filled/instagram.svg"
-          alt="Instagram"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<img
+  height="190"
+  align="right"
+  src="./assets/kamen-rider-ryuki.jpg"
+  alt="Kamen Rider Ryuki"
+/>
 
 <a href="https://git.io/typing-svg">
   <img
