@@ -1,3 +1,12 @@
+<!-- 右上角那张图要排在最前面，float 才会把它顶到右上角；
+     放在社交图标后面的话会被挤到它们下面一行。 -->
+<img
+  height="190"
+  align="right"
+  src="./assets/kamen-rider-ryuki.jpg"
+  alt="Kamen Rider Ryuki"
+/>
+
 <p>
   <a href="https://git.io/typing-svg">
     <img
@@ -41,6 +50,7 @@ Hi, I'm **Jun Hao**, a software engineering student at TARUMT working toward bac
 engineering. I spent my industrial training in the R&D department at Deng Kai Sdn Bhd
 building React Native apps that talk to hardware over BLE, Wi-Fi and MQTT, and I build
 my own apps in Flutter — most recently an offline music player for Android.
+Away from the keyboard, I'm into Kamen Rider and anime.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hao0819.github.io-0E69BB?style=flat-square&logo=googlechrome&logoColor=white)](https://hao0819.github.io) ![Profile views](https://komarev.com/ghpvc/?username=Hao0819&style=flat-square&color=0E69BB&label=Profile+views)
 
@@ -94,5 +104,30 @@ my own apps in Flutter — most recently an offline music player for Android.
 <img alt="Commit calendar" src="./metrics.plugin.isocalendar.svg" />
 
 <img alt="Languages activity" src="./metrics.plugin.languages.svg" />
+
+## Off-hours
+
+Some of my favourites.
+
+<!-- Ryuki 在最上面的右上角，这里就不重复放了。
+     三张一排共约 745px，在 README 正文宽度内，不会折行。 -->
+<table>
+  <tr>
+    <td align="center">
+      <img height="200" src="./assets/kamen-rider-blade.jpg" alt="Kamen Rider Blade" />
+    </td>
+    <td align="center">
+      <img height="200" src="./assets/goku.jpg" alt="Goku" />
+    </td>
+    <td align="center">
+      <img height="200" src="./assets/hibari-kyoya.jpg" alt="Hibari Kyoya" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Kamen Rider Blade</b></sub></td>
+    <td align="center"><sub><b>Goku</b> · Dragon Ball</sub></td>
+    <td align="center"><sub><b>Hibari Kyoya</b> · Hitman Reborn</sub></td>
+  </tr>
+</table>
 
 ⭐ If you find something useful in my repositories, a star is always appreciated!
