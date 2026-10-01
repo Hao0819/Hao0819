@@ -1,9 +1,31 @@
-<img
-  height="190"
-  align="right"
-  src="./assets/kamen-rider-ryuki.jpg"
-  alt="Kamen Rider Ryuki"
-/>
+<!-- 图和图标要包在同一个右浮动块里，图标才会落在图的下面。
+     分开写两个 align="right" 的话，图标会被排到图的左边，不是下面。 -->
+<table align="right">
+  <tr>
+    <td align="center">
+      <img
+        height="190"
+        src="./assets/kamen-rider-ryuki.jpg"
+        alt="Kamen Rider Ryuki"
+      />
+      <br />
+      <a href="https://www.linkedin.com/in/junhao0819/">
+        <img
+          height="28"
+          src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/medium/filled/linkedin.svg"
+          alt="LinkedIn"
+        />
+      </a>
+      <a href="https://www.instagram.com/junhao_lim_0103/">
+        <img
+          height="28"
+          src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/medium/filled/instagram.svg"
+          alt="Instagram"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <a href="https://git.io/typing-svg">
   <img
@@ -16,24 +38,7 @@
 ![Mobile Developer](https://img.shields.io/badge/Mobile_Developer-21262D?style=flat-square)
 ![Kuala Lumpur, MY](https://img.shields.io/badge/Kuala_Lumpur,_MY-21262D?style=flat-square)
 
-<p>
-  <a href="https://hao0819.github.io">Portfolio</a> ·
-  <a href="mailto:junhao060103@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/junhao0819/">
-    <img
-      height="24"
-      src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/medium/filled/linkedin.svg"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://www.instagram.com/junhao_lim_0103/">
-    <img
-      height="24"
-      src="https://raw.githubusercontent.com/Clorant/readme-social-icons/main/medium/filled/instagram.svg"
-      alt="Instagram"
-    />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-hao0819.github.io-0E69BB?style=flat-square&logo=googlechrome&logoColor=white)](https://hao0819.github.io) ![Profile views](https://komarev.com/ghpvc/?username=Hao0819&style=flat-square&color=0E69BB&label=Profile+views)
 
 - I build mobile apps that talk to hardware — BLE, Wi-Fi, MQTT
 - journey: TARUMT → Deng Kai R&D → backend engineering
@@ -135,5 +140,3 @@ Some of my favourites.
 </table>
 
 ⭐ If you find something useful in my repositories, a star is always appreciated!
-
-![Profile views](https://komarev.com/ghpvc/?username=Hao0819&style=flat-square&color=0E69BB&label=Profile+views)
