@@ -14,7 +14,6 @@
 
 ![Software Engineering Undergrad](https://img.shields.io/badge/Software_Engineering_Undergrad-21262D?style=flat-square)
 ![Mobile Developer](https://img.shields.io/badge/Mobile_Developer-21262D?style=flat-square)
-![Kuala Lumpur, MY](https://img.shields.io/badge/Kuala_Lumpur,_MY-21262D?style=flat-square)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hao0819.github.io-0E69BB?style=flat-square&logo=googlechrome&logoColor=white)](https://hao0819.github.io) ![Profile views](https://komarev.com/ghpvc/?username=Hao0819&style=flat-square&color=0E69BB&label=Profile+views)
 
